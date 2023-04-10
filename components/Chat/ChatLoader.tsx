@@ -1,5 +1,5 @@
-import { IconDots } from '@tabler/icons-react';
-import { FC } from 'react';
+import { IconDots } from '@tabler/icons-react'
+import { FC } from 'react'
 
 interface Props {}
 

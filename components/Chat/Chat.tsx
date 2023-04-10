@@ -1,5 +1,5 @@
-import { Conversation, Message } from '@/types/chat';
-import { KeyValuePair } from '@/types/data';
+import { Conversation, Message } from '@/types/chat'
+import { KeyValuePair } from '@/types/data'
 import { ErrorMessage } from '@/types/error';
 import { OpenAIModel, OpenAIModelID } from '@/types/openai';
 import { Plugin } from '@/types/plugin';
